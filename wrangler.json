@@ -1,4 +1,6 @@
-{
+// wrangler.json
+"name": "workers-playground-cold-shadow-e7c9",
+
   "name": "ethereum",
   "compatibility_date": "2025-04-01",
   "main": "./server.ts",
@@ -10,5 +12,3 @@
   },
   "upload_source_maps": true
 }
-// wrangler.json
-"name": "workers-playground-cold-shadow-e7c9",
