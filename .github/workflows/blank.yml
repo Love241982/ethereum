@@ -1,4 +1,15 @@
-# This is a basic workflow to help you get started with Actions
+{
+  "name": "ethereum",
+  "compatibility_date": "2025-04-01",
+  "main": "./server.ts",
+  "assets": {
+    "directory": "./build/client"
+  },
+  "observability": {
+    "enabled": true
+  },
+  "upload_source_maps": true
+}# This is a basic workflow to help you get started with Actions
 
 name: CI
 
